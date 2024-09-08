@@ -62,5 +62,5 @@ wordcloud==1.8.0
 cryptography==2.9.2
 certifi==2022.12.7
 fastapi==0.110.0
-waitress==1.4.4
+waitress==2.1.2
 aiohttp==3.8.3
