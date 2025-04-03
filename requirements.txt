@@ -60,7 +60,7 @@ wikipedia==1.4.0
 win10toast==0.9
 wordcloud==1.8.0
 cryptography==2.9.2
-certifi==2022.12.7
+certifi==2023.7.22
 fastapi==0.110.0
 waitress==1.4.4
 aiohttp==3.8.3
